@@ -3477,7 +3477,7 @@ export default class Home extends PureComponent {
                               <div className="text-Title">
                                 100% <br /> multichain
                               </div>
-                              <p> No wraps, no side-chain, no light chain, 100% true one-click swap between all blockchains</p>
+                              <p> shoji</p>
                             </div>
                           </div>
                           <div className="swap-Box01">
